@@ -32,7 +32,7 @@ ul {
     font-weight: bold;
     color: #A52A2A;
 }
-a{
+a, p{
     color: yellow;
     font-size: 40px;
 }

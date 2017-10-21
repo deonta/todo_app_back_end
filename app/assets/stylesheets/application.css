@@ -13,3 +13,32 @@
  *= require_tree .
  *= require_self
  */
+ h1{
+    color: #A52A2A;
+    margin-left: 372px;
+}
+html{
+    font-family: sans-serif;
+}
+body{ 
+    background-color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.pomodoro-estimate{
+    font-weight: bold;
+    color: #A52A2A;
+}
+a{
+    color: yellow;
+    font-size: 40px;
+}
+ul{
+    margin-left: 372px;
+}
+li {
+    padding: 10px;
+}
